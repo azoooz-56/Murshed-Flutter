@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024725132776",
+    "project_id": "murshed-dev",
+    "storage_bucket": "murshed-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024725132776:android:cf323a5e638f31896f305d",
+        "android_client_info": {
+          "package_name": "com.murshed.sa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNRSYVBoY5NOK3Geth-wxfD2soLV4vYyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

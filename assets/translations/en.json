@@ -1,0 +1,37 @@
+{
+  "appName": "Murshed",
+  "onBoarding": {
+    "helloTitle": "Hello, I'm Murshed",
+    "helloSubTitle": "Your Tour Guide",
+    "start": "Start",
+    "subTitle": "Get an exceptional tourist experience\nand discover the beauty of unique tourist destinations\nin Saudi Arabia \uD83C\uDDF8\uD83C\uDDE6"
+  },
+  "languageSelection": {
+    "title": "Choose the language you\nprefer",
+    "arabic": "العربية",
+    "english": "English",
+    "next": "Next"
+  },
+  "home": {
+    "selectLanguage": "Select City",
+    "country1": "Riyadh",
+    "country2": "Mecca",
+    "country3": "Madinah",
+    "country4": "Eastern Province",
+    "country5": "Asir",
+    "country6": "Al-Qassim",
+    "country7": "Tabuk",
+    "country8": "Al-Jouf",
+    "country9": "Najran",
+    "country10": "Jazan",
+    "country11": "Hail",
+    "country12": "Northern Borders",
+    "country13": "Al-Baha"
+  },
+  "guide": {
+    "hintChat": "Ask a question"
+  },
+  "error": {
+    "error_message": "Error Happened"
+  }
+}

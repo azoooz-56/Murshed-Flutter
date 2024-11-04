@@ -1,0 +1,37 @@
+{
+  "appName": "Murshed",
+  "onBoarding": {
+    "helloTitle": "اهلاً أنا مرشد",
+    "helloSubTitle": "مرشدك السياحي",
+    "start": "ابدأ",
+    "subTitle": "احصل على تجربة سياحية استثنائية\nواكتشف جمال الأماكن السياحية\nالفريدة في المملكة العربية السعودية \uD83C\uDDF8\uD83C\uDDE6"
+  },
+  "languageSelection": {
+    "title": "أختر اللغة التي تفضلها",
+    "arabic": "العربية",
+    "english": "English",
+    "next": "التالي"
+  },
+  "home": {
+    "selectLanguage": "إختر المدينة",
+    "country1": "الرياض",
+    "country2": "مكة المكرمة",
+    "country3": "المدينة المنورة",
+    "country4": "الشرقية",
+    "country5": "عسير",
+    "country6": "القصيم",
+    "country7": "تبوك",
+    "country8": "الجوف",
+    "country9": "نجران",
+    "country10": "جازان",
+    "country11": "حائل",
+    "country12": "الحدود الشمالية",
+    "country13": "الباحة"
+  },
+  "guide": {
+    "hintChat": "أكتب سؤالك"
+  },
+  "error": {
+    "error_message": "حصل خطأ"
+  }
+}
